@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Change 1");
+		System.out.println("Switched to development");
 	}
 
 }
